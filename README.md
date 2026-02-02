@@ -12,9 +12,6 @@ It combines fast rule-based responses with advanced AI reasoning to deliver a sm
   * AI-powered conversational replies using LLMs
 * 🧠 **Short-term Memory**
   * Maintains recent conversation context per user
-* 📸 **Vision AI Support**
-  * Analyze and describe images using advanced vision models
-  * Automatic image compression for efficiency
 * 🛡️ **Anti-Echo & Spam Protection**
   * Prevents repetitive echo replies
   * Rate limiting to avoid bot overload
